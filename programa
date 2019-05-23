@@ -1,0 +1,4 @@
+<?php
+   echo "Hola, mi nombre es Alba y hoy tengo un buen día\n";
+?>  
+
